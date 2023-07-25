@@ -4,7 +4,7 @@ import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 
-import com.qa.OptionsManager;
+
 
 public class DriverFactory {
 	WebDriver driver;
